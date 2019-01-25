@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name         baidu minus baidu
+// @home-url     https://greasyfork.org/en/scripts/377105-baidu-minus-baidu
 // @namespace    https://github.com/XXXDDD/monkey/edit/master/baidu_minus_baidu.js
 // @version      0.1
 // @description  Use baidu without baidu trash
