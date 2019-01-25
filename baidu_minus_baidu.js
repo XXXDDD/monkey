@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         baidu minus baidu
-// @home-url     https://github.com/XXXDDD/monkey/baidu_minus_baidu.js
+// @home-url     https://github.com/XXXDDD/monkey/edit/master/baidu_minus_baidu.js
 // @version      0.1
 // @description  Use baidu without baidu trash
 // @author       XD
